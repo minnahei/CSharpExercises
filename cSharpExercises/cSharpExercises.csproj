@@ -9,5 +9,6 @@
     <Folder Include="sintaxisBasica\" />
     <Folder Include="conditionals\" />
     <Folder Include="Bucles\" />
+    <Folder Include="Arrays\" />
   </ItemGroup>
 </Project>
