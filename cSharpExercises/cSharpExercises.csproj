@@ -10,5 +10,6 @@
     <Folder Include="conditionals\" />
     <Folder Include="Bucles\" />
     <Folder Include="Arrays\" />
+    <Folder Include="Methods\" />
   </ItemGroup>
 </Project>
