@@ -10,6 +10,9 @@
     <Folder Include="conditionals\" />
     <Folder Include="Bucles\" />
     <Folder Include="Arrays\" />
-    <Folder Include="Methods\" />
+    <Folder Include="Methodos\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Remove="Methods\methods.cs" />
   </ItemGroup>
 </Project>
