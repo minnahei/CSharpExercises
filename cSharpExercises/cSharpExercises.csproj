@@ -11,6 +11,7 @@
     <Folder Include="Bucles\" />
     <Folder Include="Arrays\" />
     <Folder Include="Methodos\" />
+    <Folder Include="lists\" />
   </ItemGroup>
   <ItemGroup>
     <Compile Remove="Methods\methods.cs" />
